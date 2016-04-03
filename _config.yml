@@ -1,11 +1,9 @@
 # Site settings
 title: Rishita Anubhai
 email: rishita@cs.stanford.edu
-description: Rishita's personal website
+description: "Rishita's personal website"
 baseurl: ""
 url: "https://rishita.github.io"
-twitter_username: rishita
-github_username:  rishita
 
 # Build settings
 markdown: kramdown
