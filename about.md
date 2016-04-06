@@ -8,7 +8,7 @@ Hi, my name is Rishita Anubhai. I am originally from Ahmedabad, India and I curr
 
 ### Before I met Machine Learning
 
-During my undergrad in India, amongst my interests in information security and AI, I got opportunities to work in the former. I did multiple undergrad internships as a [research intern](https://www.linkedin.com/in/rishitaa#experience-320906555) in the domain of web security at a startup called [Blueinfy](http://www.blueinfy.com/). Eventually when I started my MS program at Stanford, I initially continued to pursue a specialization in computer and information security in my first year. During this time, I also did some [research under the guidance of Prof. Dan Boneh](http://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html) at Stanford.
+During my undergrad in India, amongst my interests in information security and AI, I got opportunities to work in the former. I did multiple undergrad internships as a [research intern](https://www.linkedin.com/in/rishitaa#experience-320906555) in the domain of web security at a startup, namely [Blueinfy Solutions Pvt Ltd](http://www.blueinfy.com/). Eventually when I started my MS program at Stanford, I initially continued to pursue a specialization in computer and information security in my first year. During this time, I also did some [research under the guidance of Prof. Dan Boneh](http://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html) at Stanford.
 
 ### First steps in Machine Learning
 
