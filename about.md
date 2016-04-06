@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Rishita Anubhai. I am originally from Ahmedabad, India and I currently live in the San Francisco bay area in the United States where I work at the [Silicon Valley AI Lab (SVAIL), Baidu Research](http://research.baidu.com/silicon-valley-ai-lab/). I did my undergrad in CS from Nirma University ('11), followed by my Masters in CS from Stanford University ('13).
+Hi, my name is Rishita Anubhai. I am originally from Ahmedabad, India and I currently live in the San Francisco bay area in the United States. Here, I work at the [Silicon Valley AI Lab (SVAIL), Baidu Research](http://research.baidu.com/silicon-valley-ai-lab/). I did my undergrad in CS from Nirma University ('11), followed by my Masters in CS from Stanford University ('13).
 
 ### Before I met Machine Learning
 
