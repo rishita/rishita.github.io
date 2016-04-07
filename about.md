@@ -24,4 +24,4 @@ Microsoft was a great experience with a great team that got me excited about ML 
 
 After having joined SVAIL about 8 months back as a machine learning engineer, I have worked on various projects involving [Deep Speech 2](http://arxiv.org/abs/1512.02595) and its productionization. I have also worked on some initial efforts in natural language understanding and dialog agents at the lab. This experience has been very rewarding and I continue to learn a lot from my colleagues at various paper reading groups and learning sessions at the lab. In future, I keenly wish to further deepen my understanding of deep learning and the intuitions that drive it.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/rishitaa).
+You can download my resume [here](rishita-resume-april-2016.pdf) or find me on [LinkedIn](https://www.linkedin.com/in/rishitaa).
